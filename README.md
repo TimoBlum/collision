@@ -1,2 +1,2 @@
 # collision
- my initial collision detection game made by me when I was 14.
+ my initial collision detection game.
